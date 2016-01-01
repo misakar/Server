@@ -2,5 +2,8 @@
 ===
 原文: http://python.jobbole.com/81524/
 
-## 1. simpleServer.py
-simpleServer.py => python 实现的一个简单的服务器
+## simpleServer.py
+simpleServer.py => python 实现的一个简单的http服务器
+
+## simpleServer.js
+simpleServer.js => Node 实现的一个简单的http服务器

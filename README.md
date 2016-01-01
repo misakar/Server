@@ -1,6 +1,12 @@
-一起来写一个web服务器的代码
+一起来写一个web服务器(总结)
 ===
 原文: http://python.jobbole.com/81524/
+
+## (零): 所需知识预备
+[socket 套接字](http://baike.baidu.com/subview/13870/15994413.htm) <br/>
+[WSGI规范](http://segmentfault.com/a/1190000003069785) <br/>
+[python socket套接字编程](http://hackerxu.com/2014/11/28/python_socket.html) <br/>
+[python StringIO 模块](http://www.cnblogs.com/sislcb/archive/2008/11/27/1341996.html) <br/>
 
 ## (一): 实现一个简单的http服务器
 ### socket 套接字
